@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CodegardenApp")]
+[assembly: AssemblyTitle("CodegardenWebApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CodegardenApp")]
+[assembly: AssemblyProduct("CodegardenWebApp")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("724b32d6-f202-4b23-9fe7-7c9717d34108")]
+[assembly: Guid("8fbee07c-18c6-4ae4-a00b-b71a628f39e6")]
 
 // Version information for an assembly consists of the following four values:
 //
